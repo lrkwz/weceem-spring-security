@@ -1,0 +1,40 @@
+repo_name: lrkwz/weceem-spring-security
+report_id: 344de19bdac4bd48eddc1760ed6f4ba7
+repo_type: Public
+timestamp: '2023-11-09T12:05:07+00:00'
+requested_by: julyantonicheva
+provider: github
+branch: master
+detected_tools_count: 3
+tools:
+- name: Groovy
+  description: A multi-faceted language for the Java platform
+  website_url: https://groovy-lang.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/997/default_7ff5fcd857f42ad25149f659693d8930bffddf14.png
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: Apache Camel
+  description: A versatile open source integration framework
+  website_url: https://camel.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source: application.properties
+  last_updated_by: Marc Palmer
+  last_updated_on: 2011-01-06 16:06:06.000000000 Z
